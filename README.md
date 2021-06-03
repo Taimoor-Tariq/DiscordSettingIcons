@@ -1,4 +1,8 @@
 # DiscordSettingIcons
 Discord Setting Icons compatible with BetterDiscord and PowerCord
 
-Still working on it, will releas soon
+
+Import URL
+```
+@import url(https://taimoor-tariq.github.io/DiscordSettingIcons/SettingIcons.css);
+```
